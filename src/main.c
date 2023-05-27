@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <math.h>
-#include <rp.h>
+#include "rp.h"
 
 #define M_PI 3.14159265358979323846
 
